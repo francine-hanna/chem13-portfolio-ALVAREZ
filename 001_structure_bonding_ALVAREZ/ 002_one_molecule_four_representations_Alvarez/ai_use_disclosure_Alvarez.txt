@@ -1,0 +1,3 @@
+AI Use Disclosure
+
+I used ChatGPT to help verify the molecular formulas and condensed structural formulas of the ten selected compounds. While to check the bond-line structures, I referred to PubChem as a source of comparison and I also used Google’s AI Mode as an additional aid in verifying the Lewis structures. These tools helped me review the accuracy and consistency of the molecular representations in my work. However, I remained responsible for reviewing the information and ensuring that my final output was accurate and complete.
